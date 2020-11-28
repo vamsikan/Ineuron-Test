@@ -1,2 +1,2 @@
 # Ineuron-Test
-Learning Python
+Learning Python for self
